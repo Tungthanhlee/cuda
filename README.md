@@ -18,5 +18,19 @@ Implemented vector addition by writing a simple CUDA program. Explored how to la
 - Read **Chapter 1** of the PMPP book.  
   - Learned about the fundamentals of parallel programming, CUDA architecture, and the GPU execution model.
 
+## Day 2
+### File: `matrix_add.cu`
+**Summary:**  
+Implemented matrix addition.
+
+**Learned:**  
+- How matrix is linearly stored in memory and how to access it using linear index.
+- `dim3` type for grid, block, and thread.
+
+### Reading:  
+- Read **Chapter 2** and **Chapter 3** of the PMPP book.
+- Learned how threads perform complex operations in parallel rather than simple operations.
+- Next steps: implement matrix multiplication, colorToGrayscaleConversion, and imageBlurring.
+
 ---
 Template borrowed from https://github.com/a-hamdi/cuda/tree/main
