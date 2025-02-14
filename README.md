@@ -1,6 +1,6 @@
 # CUDA 100 days Learning Journey
 
-This repo is an attempt to learn CUDA and parallel programming by following PMPP book and doing 100 days challenge [here](https://github.com/1y33/100Days).
+This repo is an attempt to learn CUDA and parallel programming by following PMPP book and doing 100 days challenge https://github.com/hkproj/100-days-of-gpu?tab=readme-ov-file
 
 ---
 
