@@ -32,5 +32,15 @@ Implemented matrix addition.
 - Learned how threads perform complex operations in parallel rather than simple operations.
 - Next steps: implement matrix multiplication, colorToGrayscaleConversion, and imageBlurring.
 
+## Day 3
+### File: `matrix_mult.cu`
+**Summary:**  
+Implemented matrix multiplication.
+
+### Reading:  
+- Read **Chapter 3** (continued) of the PMPP book.
+- Next steps: use shared memory to speed up matrix multiplication, implement colorToGrayscaleConversion, and imageBlurring.
+
+
 ---
 Template borrowed from https://github.com/a-hamdi/cuda/tree/main
